@@ -1,4 +1,4 @@
-MARKOV CHAINS
+<h1>MARKOV CHAINS<h1>
 
 <strong>Discrete-time chains</strong>
 <ul>
@@ -16,4 +16,4 @@ MARKOV CHAINS
 </ul>
 Associated Github Page
 
-https://jaircambridge.github.io/Markov-Chains/
+<h3>https://jaircambridge.github.io/Markov-Chains/<h3>
